@@ -3,7 +3,7 @@
 
 ## 💡 Project Overview
 
-This project involves creating an interactive Power BI dashboard for visualizing key performance indicators (KPIs) and metrics related to call center performance for PhoneNow. The primary objective is to provide a transparent and insightful overview of long-term trends in customer and agent behavior. This dashboard will help the Call Centre Manager, Claire, in her discussions with management by highlighting crucial aspects such as call volumes, response times, customer satisfaction, and agent performance.
+This project involves creating an interactive Power BI dashboard for visualizing key performance indicators (KPIs) and metrics related to call center performance for PhoneNow. The primary objective is to provide a transparent and insightful overview of long-term trends in customer and agent behavior. This dashboard will help the Call Centre Manager, in her discussions with management by highlighting crucial aspects such as call volumes, response times, customer satisfaction, and agent performance.
 
 ## ☝️ Project Goals
 
@@ -23,8 +23,6 @@ This project involves creating an interactive Power BI dashboard for visualizing
 
 - **Power BI**: For data visualization and dashboard creation.
 - **Microsoft Excel**: For initial data collection and preprocessing.
-- **Python (optional)**: For advanced data preprocessing if needed.
-- **Podcasts and Articles**: For enhancing understanding of data visualization and digital upskilling.
 
 ## 🗂️ Data Sources
 
@@ -33,12 +31,12 @@ This project involves creating an interactive Power BI dashboard for visualizing
 | Column                    | Description                                                       |
 |---------------------------|-------------------------------------------------------------------|
 | Call Id                   | Unique identifier for each call                                   |
-| Agent                     | Name or ID of the agent handling the call                         |
+| Agent                     | Name of the agent handling the call                               |
 | Date                      | Date of the call                                                  |
 | Time                      | Time of the call                                                  |
 | Topic                     | Topic or reason for the call                                      |
 | Answered (Y/N)            | Whether the call was answered (Yes/No)                            |
-| Resolved                  | Whether the issue was resolved during the call                    |
+| Resolved                  | Whether the issue was resolved during the call (Yes/No)           |
 | Speed of answer in seconds| Time taken to answer the call, measured in seconds                |
 | AvgTalkDuration           | Average duration of the call in seconds                           |
 | Satisfaction rating       | Customer satisfaction rating for the call                         |
