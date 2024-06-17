@@ -7,8 +7,6 @@ We use powerful Data Analytics tools to help solve business problems for our cli
 ## Main tasks
 <img width="644" alt="Знімок екрана 2024-06-17 о 12 42 13" src="https://github.com/IraSafonik/pws_forage/assets/32171563/9e0cce0f-7623-4577-8aa7-1ef497a6db4f">
 
-# Call Centre Trends Dashboard
-
 ## 💡 Project Overview
 
 This project involves creating an interactive Power BI dashboard for visualizing key performance indicators (KPIs) and metrics related to call center performance for PhoneNow. The primary objective is to provide a transparent and insightful overview of long-term trends in customer and agent behavior. This dashboard will help the Call Centre Manager, Claire, in her discussions with management by highlighting crucial aspects such as call volumes, response times, customer satisfaction, and agent performance.
@@ -55,7 +53,7 @@ This project involves creating an interactive Power BI dashboard for visualizing
 
 ### 1️⃣ Step 1: Data Collection and Preprocessing
 - Collect all relevant data from the Call Centre Manager.
-- Clean and preprocess the data using Excel or Python to ensure it is ready for analysis.
+- Clean and preprocess the data using Power Query to ensure it is ready for analysis.
 
 ### 2️⃣ Step 2: KPI Identification and Definition
 - Work with the Call Centre Manager to identify the most relevant KPIs.
@@ -79,5 +77,3 @@ This project involves creating an interactive Power BI dashboard for visualizing
 ## 🌿 Results and Conclusion
 
 The final Power BI dashboard provides a comprehensive and insightful view of the call center's performance. Key trends and metrics are clearly visualized, allowing the Call Centre Manager to make informed decisions and effectively communicate with management. This project not only demonstrates the power of data visualization but also highlights the importance of digital upskilling in today's fast-changing work environment.
-
-## Dashboard👇
