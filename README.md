@@ -1,11 +1,5 @@
 # PWC - Call Centre Trends Dashboard
-
-Fiddling around in Excel sheets just doesn’t suit a digital Jedi. In Switzerland, PwC’s Digital Upskilling Academy helps our people move from zero to digital heroes. PwC is upskilling 284,000 people because the right digital skills make us agile, adaptable, and fit for the future.
-
-We use powerful Data Analytics tools to help solve business problems for our clients. Learning to master Power BI is a good first step. By empowering me to identify patterns, risks, and opportunities in data, I work more efficiently. I can visualize the value of data and turn it into convincing, actionable insights.
-
-## Main tasks
-<img width="644" alt="Знімок екрана 2024-06-17 о 12 42 13" src="https://github.com/IraSafonik/pws_forage/assets/32171563/9e0cce0f-7623-4577-8aa7-1ef497a6db4f">
+<img width="752" alt="Знімок екрана 2024-06-17 о 18 30 28" src="https://github.com/IraSafonik/pws_forage/assets/32171563/35dcdad7-e893-47d6-87e2-731fd9936964">
 
 ## 💡 Project Overview
 
