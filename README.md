@@ -7,6 +7,8 @@ We use powerful Data Analytics tools to help solve business problems for our cli
 ## Main tasks
 <img width="644" alt="Знімок екрана 2024-06-17 о 12 42 13" src="https://github.com/IraSafonik/pws_forage/assets/32171563/9e0cce0f-7623-4577-8aa7-1ef497a6db4f">
 
+# Call Centre Trends Dashboard
+
 ## 💡 Project Overview
 
 This project involves creating an interactive Power BI dashboard for visualizing key performance indicators (KPIs) and metrics related to call center performance for PhoneNow. The primary objective is to provide a transparent and insightful overview of long-term trends in customer and agent behavior. This dashboard will help the Call Centre Manager, Claire, in her discussions with management by highlighting crucial aspects such as call volumes, response times, customer satisfaction, and agent performance.
@@ -34,9 +36,20 @@ This project involves creating an interactive Power BI dashboard for visualizing
 
 ## 🗂️ Data Sources
 
-- **Call Logs**: Detailed records of all calls including answered, abandoned, time of call, and call duration.
-- **Customer Satisfaction Surveys**: Data on customer satisfaction ratings.
-- **Agent Performance Records**: Metrics on individual agent performance including average handle time and calls answered.
+### Call Centre Dataset
+
+| Column                    | Description                                                       |
+|---------------------------|-------------------------------------------------------------------|
+| Call Id                   | Unique identifier for each call                                   |
+| Agent                     | Name or ID of the agent handling the call                         |
+| Date                      | Date of the call                                                  |
+| Time                      | Time of the call                                                  |
+| Topic                     | Topic or reason for the call                                      |
+| Answered (Y/N)            | Whether the call was answered (Yes/No)                            |
+| Resolved                  | Whether the issue was resolved during the call                    |
+| Speed of answer in seconds| Time taken to answer the call, measured in seconds                |
+| AvgTalkDuration           | Average duration of the call in seconds                           |
+| Satisfaction rating       | Customer satisfaction rating for the call                         |
 
 ## 💻 Process and Steps
 
@@ -66,3 +79,5 @@ This project involves creating an interactive Power BI dashboard for visualizing
 ## 🌿 Results and Conclusion
 
 The final Power BI dashboard provides a comprehensive and insightful view of the call center's performance. Key trends and metrics are clearly visualized, allowing the Call Centre Manager to make informed decisions and effectively communicate with management. This project not only demonstrates the power of data visualization but also highlights the importance of digital upskilling in today's fast-changing work environment.
+
+## Dashboard👇
