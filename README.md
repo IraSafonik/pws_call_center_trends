@@ -103,33 +103,37 @@ This project involves creating an interactive Power BI dashboard for visualizing
 - The highest resolution rate was for the Streaming topic, with around 73% of calls resolved.
 - The lowest resolution rate was for the Contract topic, with around 63% of calls resolved.
 
-## 🌟Recommendations:
+## 🚀Recommendations:
 
-1. Improve Call Answer Rate (18.92% of calls were unanswered).
+### 1. Improve Call Answer Rate 
+(18.92% of calls were unanswered).
 - Increase staffing during peak call volumes.
 - Optimize call queuing and distribution system.
 
-2. Enhance Agent Training (Agents with lower satisfaction ratings (e.g., Joe: 3.33, Greg: 3.40). Call topics with lower resolution rates (e.g., Contract: ~63%)).
+### 2. Enhance Agent Training 
+(Agents with lower satisfaction ratings (e.g., Joe: 3.33, Greg: 3.40). Call topics with lower resolution rates (e.g., Contract: ~63%)).
 - Provide targeted training for underperforming agents.
 - Encourage knowledge sharing among high and low performers.
 - Develop training programs for specific call topics.
 
-3. Optimize Call Handling Efficiency (Joe had the slowest average speed of answering calls (70.99 seconds)).
+### 3. Optimize Call Handling Efficiency 
+(Joe had the slowest average speed of answering calls (70.99 seconds)).
 - Analyze and address bottlenecks in call handling process.
 - Implement call prioritization strategies.
 - Explore self-service options for routine inquiries.
 
-4. Improve Call Resolution Rate (27.08% of calls were unresolved. Contract topic had the lowest resolution rate (~63%)).
+### 4. Improve Call Resolution Rate 
+(27.08% of calls were unresolved).
 - Investigate root causes of low resolution rates.
 - Enhance agent knowledge and resources for complex inquiries.
 - Implement call escalation process for unresolved issues.
 
-5. Conduct Regular Performance Reviews
+### 5. Conduct Regular Performance Reviews
 - Implement regular performance reviews with constructive feedback.
 - Recognize and reward top-performing agents.
 - Gather feedback from agents for process improvements.
 
-6. Analyze Call Trends and Patterns
+### 6. Analyze Call Trends and Patterns
 - Continuously monitor call trends and patterns.
 - Adjust staffing, training, and resources based on evolving call topics.
 - Leverage data-driven insights for proactive improvements.
