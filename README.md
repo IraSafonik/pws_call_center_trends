@@ -1,4 +1,4 @@
-# PWC - Call Centre Trends Dashboard
+# PWC - Call Center Trends Dashboard
 <img width="752" alt="Знімок екрана 2024-06-17 о 18 30 28" src="https://github.com/IraSafonik/pws_forage/assets/32171563/35dcdad7-e893-47d6-87e2-731fd9936964">
 
 ## 💡 Project Overview
