@@ -73,6 +73,7 @@ This project involves creating an interactive Power BI dashboard for visualizing
 - Provide the Call Centre Manager with the necessary training to use and interpret the dashboard.
 
 ## Dashboard👇
+![Screenshot_8](https://github.com/IraSafonik/pws_forage/assets/32171563/3f935d86-2e94-430a-9bee-85fae2b68e5c)
 
 ## 🌿 Results and Conclusion
 
